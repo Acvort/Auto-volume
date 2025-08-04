@@ -77,7 +77,8 @@
 
 ## [📙] Licensed || Лицензия
 ### -> [CC-BY-NC-SA-4.0](https://github.com/Acvort/Auto-volume?tab=License-1-ov-file#creative-commons-attribution-non-commercial-share-alike-40-international)
-![CC-BY-NC-SA-4.0](https://github.com/user-attachments/assets/eb543853-0ed6-4b93-97b6-0fce4917d46e)
+<img width="1023" height="575" alt="CC-BY-NC-SA-4.0" src="https://github.com/user-attachments/assets/ac712561-c43d-4f4a-b3ce-8d09036a51a2" />
+
 ## [📥] Stay tuned for updates || Следите за обновлениями
 ### -> [OBS Forums](https://obsproject.com/forum/resources/)
 ## [🔗] Sources || Источники
